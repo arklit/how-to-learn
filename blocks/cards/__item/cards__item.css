@@ -2,3 +2,6 @@
   padding-top: 60px;
   width: 240px;
 }
+.cards__item:last-of-type {
+  margin-right: 339px;
+}
